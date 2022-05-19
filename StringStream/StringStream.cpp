@@ -24,5 +24,6 @@ int main() {
         std::cout << integers[i] << "\n";
     }
 
+    
     return 0;
 }
